@@ -1,0 +1,3 @@
+Reporte de Casas:
+-----------------
+ID: 1, Sector: A, Propietario: Carlos Gomez, Vehiculo - Placa: P-456DEF, Marca: Honda, Modelo: Civic 2020, Color: Negro

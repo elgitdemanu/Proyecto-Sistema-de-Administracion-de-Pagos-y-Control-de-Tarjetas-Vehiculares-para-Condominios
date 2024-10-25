@@ -1,0 +1,3 @@
+Reporte de Pagos:
+-----------------
+Casa ID: 1, Monto: 1500.00, Fecha: 2024-10-25, Metodo: Transferencia, Estado: Pagado, Descripcion: Mantenimiento mensual de octubre
